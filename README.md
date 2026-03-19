@@ -7,11 +7,11 @@
 ### Installation
 * **Clone the project into your working directory :**
 ```bash
-   git clone repository_of_your_LIBFT
+   git clone git@github.com:dsalomain/project_libft_cursus_42_school.git libftProject
 ```
 * **Navigate to the folder**
 ```bash
-   cd libft_or_additional_name_of_clone
+   cd libftProject
 ```
 ### compilation
 The project includes a `Makefile` with the following mandatory rules :
